@@ -21,21 +21,21 @@ Targeted User
 
 Trget users of this apps are the admins' who are responsible to manage inventory records for inventory or wearhouse. Using this app they can cut off the aditional paper base record system or adding products to inventory dealing real databases. 
  
-Specific Platform
+SPECIFIC PLATFORM
 
 React Native Framework, Google firebass to setup the database, expo toolchain as emulator, LocalAuthentication Expo SDK API for biometric sign in, react-native-router-flux for routing our apps screens and simulating them, react-native-element for designing the UI.
 
 Specifications
 
-Clone the repository to your local computer
-Move into the local folder for the repository
-Run npm install to install all the dependencies
-npm install --save firebase library in project directory 
-npm install --save native-base 
+Clone the repository to your local computer.
+Move into the local folder for the repository.
+Run npm install to install all the dependencies.
+npm install --save firebase library in project directory. 
+npm install --save native-base.
 react-native link, in project folder to install UI toolkit.
-npm install --save react-native-router-flux in project directory
-Install EXPO app from play store in your mobile device 
-Run expo start to start the packager
+npm install --save react-native-router-flux in project directory.
+Install EXPO app from play store in your mobile device. 
+Run expo start to start the packager.
 
 
 CONSTRAINTS 
