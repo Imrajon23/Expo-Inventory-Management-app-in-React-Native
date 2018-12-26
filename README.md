@@ -26,16 +26,16 @@ SPECIFIC PLATFORM
 React Native Framework, Google firebass to setup the database, expo toolchain as emulator, LocalAuthentication Expo SDK API for biometric sign in, react-native-router-flux for routing our apps screens and simulating them, react-native-element for designing the UI.
 
 Specifications
-
-Clone the repository to your local computer.
-Move into the local folder for the repository.
-Run npm install to install all the dependencies.
-npm install --save firebase library in project directory. 
-npm install --save native-base.
-react-native link, in project folder to install UI toolkit.
-npm install --save react-native-router-flux in project directory.
-Install EXPO app from play store in your mobile device. 
-Run expo start to start the packager.
+Steps:
+1. Clone the repository to your local computer.
+2. Move into the local folder for the repository.
+3. Run npm install to install all the dependencies.
+4. npm install --save firebase library in project directory. 
+5. npm install --save native-base.
+6. react-native link, in project folder to install UI toolkit.
+7. npm install --save react-native-router-flux in project directory.
+8. Install EXPO app from play store in your mobile device. 
+9. Run expo start to start the packager.
 
 
 CONSTRAINTS 
