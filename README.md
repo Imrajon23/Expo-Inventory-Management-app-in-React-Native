@@ -58,7 +58,16 @@ Specifications
 CONSTRAINTS 
 
 As a novice developer in react native we think time and and dedication to complete this project would be our main constarint. Synchronising our apps funtions is the toughest part of our project according to our knowledge. connecting databases to our screens for data update, processing biometric access then managing the inventory, these sinchronization would be very difficult as novice react native app developer. Getting tutorial resorces, appropriate for our project apply the resources to develop our project is another challenge for us.
-   
+
+
+FUTURE WORK
+
+For our Inventory app future work instead app adding, updating, deleting inveontory manually using app we will use barcode scanner. By just scannig barcode of every product it will update the inventory. No need to put product name,id, quantity anymore.
+
+WORK DISTRIBUTION
+Oskar- Firebass setup, screens of app, Splash screen.
+Imran- Biometric authentication, Routing among screens.
+fathul- No pertcipation.
  
 SUMMARY
 
